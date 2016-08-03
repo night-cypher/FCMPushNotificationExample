@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1051016663914",
+    "firebase_url": "https://fcmtest-8fbd1.firebaseio.com",
+    "project_id": "fcmtest-8fbd1",
+    "storage_bucket": "fcmtest-8fbd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051016663914:android:61a783555d1f041a",
+        "android_client_info": {
+          "package_name": "com.example.questdot.fcmpushnotificationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051016663914-3atah571vch8m7pv9tpse9mho63qrgl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmpH3V8-lh8VnvDLOYiiZ7PPaWGq8MkYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
